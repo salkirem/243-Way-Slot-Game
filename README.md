@@ -1,7 +1,8 @@
 # 243-Way-Slot-Game
 Unleash frenzy with WILDs, scatters, multipliers, freespins and 243 ways to win big
 
-Simulation of game balance with 2M rounds are calculated with JavaScipt. 
+-Simulation of game balance with 2M rounds are calculated with JavaScipt. Necessary libs have to added to the script files such as Lodash, Json.
+-Inputs can be changed by rearranging JSONs, arrays, lists. 
 
 slot game that offers players the chance to experience the thrill of spinning the reels while seeking big wins and exhilarating features. This document outlines the key elements of the game design, including game mechanics, RTP (Return to Player), free game features, volatility calculation, and more.
 
